@@ -8,7 +8,7 @@
 4.  Download and extract dgVoodoo ([http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/](http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/ "http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/")  )
 5.  Copy all .dll files from the dgVoodoo MS folder to your Allied Force directory.
 6.  Copy this config to that same directory ([https://github.com/d-wilcox/AF-voodoo-config/blob/928778ddf6d6db05e11c8af73807eb22974ee098/dgVoodoo.conf](https://github.com/d-wilcox/AF-voodoo-config/blob/928778ddf6d6db05e11c8af73807eb22974ee098/dgVoodoo.conf "https://github.com/d-wilcox/AF-voodoo-config/blob/928778ddf6d6db05e11c8af73807eb22974ee098/dgVoodoo.conf")  )
-7.  Run Allied Force
+7.  Run Allied Force as Admin (always)
 8.  Go to graphic settings and set video driver and mode to use dgVoodoo
 9.  Set your preferred resolution.
 10.  Play! Have Fun!
